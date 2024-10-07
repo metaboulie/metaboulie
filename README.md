@@ -18,5 +18,3 @@
 -   Developing intelligent music systems.
 
 Let's build something transformative.
-
-[![My Stack](https://github-readme-stats.vercel.app/api/wakatime?username=metaboulie)](https://github.com/anuraghazra/github-readme-stats)
