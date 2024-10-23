@@ -28,8 +28,10 @@ data science, code aesthetics, or experimental sound design.
 
 -   Music genres: Ambient Dubstep | Contemporary Classical | Avant-garde
     Electronica
--   Nightclubs: Abyss Club (Shanghai, China) | All Club (Shanghai, China) |
-    Mininini Klub (Wuhan, China)
+-   Nightclubs: [Abyss Club](https://ra.co/clubs/210425) (Shanghai, China) |
+    [All Club](https://ra.co/clubs/137029) (Shanghai, China) |
+    [Mininini Klub](https://www.instagram.com/minininiklub/?hl=en) (Wuhan,
+    China)
 
 ---
 
