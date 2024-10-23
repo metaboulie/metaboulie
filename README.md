@@ -31,10 +31,6 @@ data science, code aesthetics, or experimental sound design.
 -   Nightclubs: Abyss Club (Shanghai, China) | All Club (Shanghai, China) |
     Mininini Klub (Wuhan, China)
 
-### Philosophies & Personal Algorithms 🧠
-
--   Finding wisdom in broken systems and patterns of change.
-
 ---
 
 🔗 [marimo](https://github.com/marimo-team/marimo) | Reactive Notebooks
