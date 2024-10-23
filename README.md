@@ -21,16 +21,6 @@ data science, code aesthetics, or experimental sound design.
     -   _"Métaboulie" is derived from Gilles Deleuze's concept of
         transformation—an exploration of shifts, mutations, and the
         metamorphosis of ideas._
-    -   **M** is for **Metamorphosis** – continuous becoming
-    -   **É** is for **Écart** – the divergence that ignites thought
-    -   **T** is for **Transgression** – beyond the limits
-    -   **A** is for **Abyss** – where depth meets reflection
-    -   **B** is for **Becoming** – the process itself
-    -   **O** is for **Oscillation** – moving between extremes
-    -   **U** is for **Unfolding** – the revelation of complexity
-    -   **L** is for **Liminality** – existing in the in-between
-    -   **I** is for **Immanence** – the presence within
-    -   **E** is for **Entropy** – embracing chaos and disorder
 
 -   **deepBoredom**: [YouTube](https://www.youtube.com/@deepBoredom)
 
