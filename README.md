@@ -1,4 +1,4 @@
-_"métaboulie" is derived from Gilles Deleuze's concept of transformation—an 
+_"métaboulie" is derived from Gilles Deleuze's concept of transformation—an
 exploration of shifts, mutations, and the metamorphosis of ideas._
 
 I explore the spaces between philosophy, psychoanalysis, and artificial
@@ -31,7 +31,8 @@ data science, code aesthetics, or experimental sound design.
     China)
 
 ---
+
 Contributor of projects below
 
-- [marimo](https://github.com/marimo-team/marimo) | A reactive notebook for Python
-
+-   [marimo](https://github.com/marimo-team/marimo) | A reactive notebook for
+    Python
