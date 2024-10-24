@@ -5,21 +5,23 @@ I explore the spaces between philosophy, psychoanalysis, and artificial
 intelligence. My tools often blend function with abstraction—whether through
 data science, code aesthetics, or experimental sound design.
 
-# Thought Processes & Tools 
+---
+
+**Thought Processes & Tools**
 
 -   **Functional Programming**: Haskell | Elixir
 -   **Tools I Love**: Neovim | [Docling](https://github.com/DS4SD/docling)
 -   **Design Preferences**: High-thin fonts. Darkened Nord. Color-blind
     friendly.
 
-# Writings & Spaces 
+**Writings & Spaces**
 
 -   **métaboulie**: A personal blog about systems, change, and abstraction (in
     dev) .
 
 -   **deepBoredom**: [YouTube](https://www.youtube.com/@deepBoredom)
 
-# Inspirations & Pursuits 
+**Inspirations & Pursuits**
 
 -   Music genres: Ambient Dubstep | Contemporary Classical | Avant-garde
     Electronica
