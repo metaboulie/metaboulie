@@ -1,7 +1,7 @@
-```julia
+<pre>
 while true
-    listen to and [make some music](https://metaboulie.bandcamp.com)
+    listen to and <a href="https://metaboulie.bandcamp.com">make some music</a>
     read
     dream
 end
-```
+</pre>
