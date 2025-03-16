@@ -1,16 +1,16 @@
-## Hi there 👋
+design principles
+- opinionated to my own preference
+- no or fewest third-party dependencies
+- minimal engineered
 
-<!--
-**metaboulie/metaboulie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+currently working on
+- functional programming course for [marimo/learn](https://github.com/marimo-team/learn/tree/main/functional_programming)
 
-Here are some ideas to get you started:
+all projects are wip
+- [motheme](https://github.com/metaboulie/marimo-themes): [marimo](https://github.com/marimo-team/marimo) theming management
+- [mowidget](https://github.com/metaboulie/marimo-widgets): a collection of widgets for marimo, built with [anywidget](https://github.com/manzt/anywidget)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ps.
+- fan of [mr.zozin](https://github.com/rexim)
+
+discord: eugene.hs | email: metaboulie <at> pm.me | youtube: deepBoredom
