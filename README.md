@@ -13,4 +13,4 @@ all projects are wip
 ps.
 - fan of [mr.zozin](https://github.com/rexim)
 
-discord: eugene.hs | email: metaboulie |$at$| pm.me | youtube: deepBoredom
+discord: eugene.hs | email: metaboulie@pm.me | youtube: deepBoredom
